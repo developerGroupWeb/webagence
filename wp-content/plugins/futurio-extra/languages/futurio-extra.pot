@@ -1,0 +1,1449 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Futurio Extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-06 14:08+0100\n"
+"PO-Revision-Date: 2016-03-09 16:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: FuturioWP <info@futurio.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: include\n"
+"X-Poedit-SearchPathExcluded-1: lib/metabox/options/default-options.php\n"
+"X-Poedit-SearchPathExcluded-2: lib/metabox/options/custom-options.php\n"
+"X-Poedit-SearchPathExcluded-3: lib/metabox/assets\n"
+
+#: futurio-extra.php:86
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: futurio-extra.php:86
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: futurio-extra.php:88
+#, php-format
+msgid "Theme: %1$s"
+msgstr ""
+
+#: futurio-extra.php:263 lib/metabox/inc/functions.php:313
+msgid "Off"
+msgstr ""
+
+#: futurio-extra.php:265
+msgid "Comment on "
+msgstr ""
+
+#: lib/admin/dashboard.php:16 lib/demo/classes/class-install-demos.php:59
+msgid "Futurio Options"
+msgstr ""
+
+#: lib/admin/dashboard.php:115 lib/admin/dashboard.php:138
+msgid "Changelog"
+msgstr ""
+
+#: lib/admin/dashboard.php:131
+msgid "Back"
+msgstr ""
+
+#: lib/admin/dashboard.php:153
+msgid "Logo & Site Identity"
+msgstr ""
+
+#: lib/admin/dashboard.php:157
+msgid "Colors & Typography"
+msgstr ""
+
+#: lib/admin/dashboard.php:161 options/colors-typography-presets.php:14
+#: options/colors-typography-presets.php:26
+msgid "Color presets"
+msgstr ""
+
+#: lib/admin/dashboard.php:165 options/colors-typography-footer-credits.php:14
+#: options/footer-credits.php:14
+msgid "Footer credits"
+msgstr ""
+
+#: lib/admin/dashboard.php:169
+msgid "Global options"
+msgstr ""
+
+#: lib/admin/dashboard.php:173
+msgid "Top bar options"
+msgstr ""
+
+#: lib/admin/dashboard.php:177
+msgid "Main menu options"
+msgstr ""
+
+#: lib/admin/dashboard.php:181
+msgid "Posts and pages options"
+msgstr ""
+
+#: lib/admin/dashboard.php:185
+msgid "Sidebar options"
+msgstr ""
+
+#: lib/admin/dashboard.php:189
+msgid "Homepage Settings"
+msgstr ""
+
+#: lib/admin/dashboard.php:197
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: lib/admin/dashboard.php:217
+msgid "Knowledge Base"
+msgstr ""
+
+#: lib/admin/dashboard.php:219
+msgid "Not sure how something works? Take a peek at the knowledge base and learn."
+msgstr ""
+
+#: lib/admin/dashboard.php:220
+msgid "Visit Knowledge Base"
+msgstr ""
+
+#: lib/admin/dashboard.php:233
+msgid "Futurio ready to import sites"
+msgstr ""
+
+#: lib/admin/dashboard.php:238
+msgid "Import your favorite site with one click and start your project in style!"
+msgstr ""
+
+#: lib/admin/dashboard.php:241
+msgid "See Library"
+msgstr ""
+
+#: lib/admin/dashboard.php:293 lib/demo/demos.php:452
+msgid "Activate"
+msgstr ""
+
+#: lib/admin/dashboard.php:297 lib/demo/demos.php:458
+msgid "Install Now"
+msgstr ""
+
+#: lib/admin/dashboard.php:325
+msgid "Details"
+msgstr ""
+
+#: lib/admin/dashboard.php:335
+msgid "Recommend Plugins"
+msgstr ""
+
+#: lib/admin/dashboard.php:350
+msgid "Header Transparent"
+msgstr ""
+
+#: lib/admin/dashboard.php:351
+msgid "Make your website stand out with transparent header modules."
+msgstr ""
+
+#: lib/admin/dashboard.php:355
+msgid "Header Sticky"
+msgstr ""
+
+#: lib/admin/dashboard.php:356
+msgid "Let your header accessible when users scroll up or down in unique style."
+msgstr ""
+
+#: lib/admin/dashboard.php:360
+msgid "Header and Footer Builder Booster"
+msgstr ""
+
+#: lib/admin/dashboard.php:361
+msgid "Get more header and footer builder items, plus advanced styling options."
+msgstr ""
+
+#: lib/admin/dashboard.php:365
+msgid "Scroll To Top"
+msgstr ""
+
+#: lib/admin/dashboard.php:366
+msgid "Get a better user experience with a scroll to top button with beautiful animation."
+msgstr ""
+
+#: lib/admin/dashboard.php:370
+msgid "Blog Pro"
+msgstr ""
+
+#: lib/admin/dashboard.php:371
+msgid "Take advantage of the Blog Pro module to show off your posts in any layouts."
+msgstr ""
+
+#: lib/admin/dashboard.php:375
+msgid "Advanced Styling"
+msgstr ""
+
+#: lib/admin/dashboard.php:376
+msgid "Control the layout and typography setting for page header title, page header cover and more."
+msgstr ""
+
+#: lib/admin/dashboard.php:384
+msgid "Portfolio"
+msgstr ""
+
+#: lib/admin/dashboard.php:385
+msgid "Show off your best project in a beautiful way."
+msgstr ""
+
+#: lib/admin/dashboard.php:389
+msgid "Multiple Headers"
+msgstr ""
+
+#: lib/admin/dashboard.php:390
+msgid "Create unique header for each page, post, archive or WooCommerce pages."
+msgstr ""
+
+#: lib/admin/dashboard.php:394
+msgid "Mega Menu"
+msgstr ""
+
+#: lib/admin/dashboard.php:395
+msgid "Create mega menu for your sites that need more space for navigation."
+msgstr ""
+
+#: lib/admin/dashboard.php:399
+msgid "Multilingual Integration"
+msgstr ""
+
+#: lib/admin/dashboard.php:400
+msgid "WPML multilingual plugin support, plus a fully customized language switcher header builder item."
+msgstr ""
+
+#: lib/admin/dashboard.php:404
+msgid "Custom Fonts"
+msgstr ""
+
+#: lib/admin/dashboard.php:405
+msgid "Custom Fonts module allows you to add your self-hosted fonts and use them on your Futurio powered websites."
+msgstr ""
+
+#: lib/admin/dashboard.php:410
+msgid "Typekit"
+msgstr ""
+
+#: lib/admin/dashboard.php:411
+msgid "Typekit module allows you to add Typekit fonts and use them on your Futurio powered websites."
+msgstr ""
+
+#: lib/admin/dashboard.php:415
+msgid "Futurio Hooks"
+msgstr ""
+
+#: lib/admin/dashboard.php:416
+msgid "Add custom hook scripts."
+msgstr ""
+
+#: lib/admin/dashboard.php:421
+msgid "WooCommerce Booster"
+msgstr ""
+
+#: lib/admin/dashboard.php:422
+msgid "Gives you creative control of style and layout options for your shop."
+msgstr ""
+
+#: lib/admin/dashboard.php:427
+msgid "Single Product Layouts"
+msgstr ""
+
+#: lib/admin/dashboard.php:428
+msgid "More beautiful layouts for your single product."
+msgstr ""
+
+#: lib/admin/dashboard.php:433
+msgid "Off Canvas Filter"
+msgstr ""
+
+#: lib/admin/dashboard.php:434
+msgid "Add off canvas products filter for shop and product archive pages."
+msgstr ""
+
+#: lib/admin/dashboard.php:439
+msgid "Product Gallery Slider"
+msgstr ""
+
+#: lib/admin/dashboard.php:440
+msgid "Add slider for product gallery."
+msgstr ""
+
+#: lib/admin/dashboard.php:445
+msgid "Quick View"
+msgstr ""
+
+#: lib/admin/dashboard.php:446
+msgid "Add product quick view modal for product listing.."
+msgstr ""
+
+#: lib/admin/dashboard.php:452
+msgid "Infinity Scroll."
+msgstr ""
+
+#: lib/admin/dashboard.php:453
+msgid "Loads the next posts, products automatically when the reader approaches the bottom of the page."
+msgstr ""
+
+#: lib/admin/dashboard.php:461
+msgid "Futurio Pro Modules"
+msgstr ""
+
+#: lib/admin/dashboard.php:462
+msgid "Upgrade Now &rarr;"
+msgstr ""
+
+#: lib/demo/classes/class-install-demos.php:31
+#: lib/demo/classes/class-install-demos.php:35
+msgid "Install Demos"
+msgstr ""
+
+#: lib/demo/classes/class-install-demos.php:57
+msgid "Thank you for using our theme. You can import our demo sites or set up the website from scratch."
+msgstr ""
+
+#: lib/demo/classes/class-install-demos.php:73
+msgid "All"
+msgstr ""
+
+#: lib/demo/classes/class-install-demos.php:80
+msgid "Search demos..."
+msgstr ""
+
+#: lib/demo/classes/class-install-demos.php:114
+msgid "Live Preview"
+msgstr ""
+
+#: lib/demo/classes/importers/class-parsers.php:42
+#: lib/demo/classes/importers/class-parsers.php:72
+#: lib/demo/classes/importers/class-parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: lib/demo/classes/importers/class-parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: lib/demo/classes/importers/class-parsers.php:84
+#: lib/demo/classes/importers/class-parsers.php:89
+#: lib/demo/classes/importers/class-parsers.php:306
+#: lib/demo/classes/importers/class-parsers.php:495
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: lib/demo/classes/importers/class-widget-importer.php:84
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: lib/demo/classes/importers/class-widget-importer.php:106
+msgid "Site does not support widget"
+msgstr ""
+
+#: lib/demo/classes/importers/class-widget-importer.php:127
+msgid "Widget already exists"
+msgstr ""
+
+#: lib/demo/classes/importers/class-widget-importer.php:185
+msgid "Imported"
+msgstr ""
+
+#: lib/demo/classes/importers/class-widget-importer.php:189
+msgid "Imported to Inactive"
+msgstr ""
+
+#: lib/demo/classes/importers/class-widget-importer.php:195
+msgid "No Title"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:132
+#: lib/demo/classes/importers/class-wordpress-importer.php:141
+#: lib/demo/classes/importers/class-wordpress-importer.php:192
+#: lib/demo/classes/importers/class-wordpress-importer.php:196
+#: lib/demo/classes/importers/class-wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:197
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:213
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:238
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:265
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:267
+#, php-format
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:372
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:516
+#: lib/demo/classes/importers/class-wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:869
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:876
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:954
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:967
+msgid "Invalid file type"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1011
+msgid "Remote server did not respond"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1017
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1024
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1029
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1035
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1134
+msgid "Import WordPress"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1141
+#, php-format
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1156
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1157
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: lib/demo/demos.php:103
+msgid "There was a problem during the importing process resulting in the following error from your server:"
+msgstr ""
+
+#: lib/demo/demos.php:104
+msgid "Activating"
+msgstr ""
+
+#: lib/demo/demos.php:105
+msgid "Active"
+msgstr ""
+
+#: lib/demo/demos.php:351
+#, php-format
+msgid "Import the %1$s demo"
+msgstr ""
+
+#: lib/demo/demos.php:357
+#, php-format
+msgid "Importing demo data allow you to quickly edit everything instead of creating content from scratch. It is recommended uploading sample data on a fresh WordPress install to prevent conflicts with your current content. You can use this plugin to reset your site if needed: %1$sWordpress Database Reset%2$s."
+msgstr ""
+
+#: lib/demo/demos.php:363
+msgid "Required Plugins"
+msgstr ""
+
+#: lib/demo/demos.php:364
+msgid "For your site to look exactly like this demo, the plugins below need to be activated."
+msgstr ""
+
+#: lib/demo/demos.php:374
+msgid "Go to the next step"
+msgstr ""
+
+#: lib/demo/demos.php:384
+msgid "Select what you want to import:"
+msgstr ""
+
+#: lib/demo/demos.php:390
+msgid "Import XML Data"
+msgstr ""
+
+#: lib/demo/demos.php:390
+msgid "pages, posts, images, menus, etc..."
+msgstr ""
+
+#: lib/demo/demos.php:397
+msgid "Import Customizer Settings"
+msgstr ""
+
+#: lib/demo/demos.php:404
+msgid "Import Widgets"
+msgstr ""
+
+#: lib/demo/demos.php:412
+msgid "Install this demo"
+msgstr ""
+
+#: lib/demo/demos.php:417
+msgid "The import process could take some time, please be patient"
+msgstr ""
+
+#: lib/demo/demos.php:423
+msgid "Demo Imported!"
+msgstr ""
+
+#: lib/demo/demos.php:424
+msgid "See the result"
+msgstr ""
+
+#: lib/demo/demos.php:463
+msgid "Activated"
+msgstr ""
+
+#: lib/demo/demos.php:473
+msgid "Get This Addon"
+msgstr ""
+
+#: lib/demo/demos.php:498
+msgid "No plugin specified"
+msgstr ""
+
+#: lib/demo/demos.php:518
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: lib/demo/demos.php:538
+msgid "Importing XML Data"
+msgstr ""
+
+#: lib/demo/demos.php:545
+msgid "Importing Customizer Settings"
+msgstr ""
+
+#: lib/demo/demos.php:552
+msgid "Importing Widgets"
+msgstr ""
+
+#: lib/demo/demos.php:817
+msgid "Can not retrieve sample data xml file. Website may be down at the momment please try again later. If you still have issues contact the theme developer for assistance."
+msgstr ""
+
+#: lib/demo/demos.php:832
+msgid "The xml import file could not be accessed. Please try again or contact the theme developer."
+msgstr ""
+
+#: lib/demo/demos.php:869
+msgid "Can not retrieve class-wp-importer.php"
+msgstr ""
+
+#: lib/demo/demos.php:879
+msgid "Can not retrieve wordpress-importer.php"
+msgstr ""
+
+#: lib/demo/demos.php:890
+msgid "Sample data file appears corrupt or can not be accessed."
+msgstr ""
+
+#: lib/demo/futurio-demos.php:120 lib/demo/futurio-demos.php:129
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:319
+msgid "Select a post"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:803
+msgid "Choose Image"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:804
+msgid "Use Selected Image"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:808
+msgid "Choose Audio"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:809
+msgid "Use Selected Audio"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:813
+msgid "Choose Video"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:814
+msgid "Use Selected Video"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:818
+msgid "Choose Document"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:819
+msgid "Use Selected Document"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:823
+msgid "Choose Spreadsheet"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:824
+msgid "Use Selected Spreadsheet"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:828
+msgid "Choose Interactive File"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:829
+msgid "Use Selected Interactive File"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:833
+msgid "Choose Text File"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:834
+msgid "Use Selected Text File"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:838
+msgid "Choose Archive File"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:839
+msgid "Use Selected Archive File"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:843
+msgid "Choose Code File"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:844
+msgid "Use Selected Code File"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:850
+#, php-format
+msgid "Upload %s"
+msgstr ""
+
+#: lib/metabox/inc/fields.php:884
+msgid "Remove"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:301 lib/metabox/inc/functions.php:305
+#: lib/metabox/inc/functions.php:309
+msgid "Yes"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:301 lib/metabox/inc/functions.php:305
+#: lib/metabox/inc/functions.php:309
+msgid "No"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:309 lib/metabox/options/options.php:61
+msgid "Default"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:313
+msgid "On"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:317
+msgid "True"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:317
+msgid "False"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:322
+msgid "Repeat"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:323
+msgid "No Repeat"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:324
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:325
+msgid "Repeat Vertically"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:331
+msgid "Top Left"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:332
+msgid "Top Center"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:333
+msgid "Top Right"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:334
+msgid "Center Left"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:335
+msgid "Center Center"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:336
+msgid "Center Right"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:345
+msgid "Scroll"
+msgstr ""
+
+#: lib/metabox/inc/functions.php:346
+msgid "Fixed"
+msgstr ""
+
+#: lib/metabox/options/options.php:38
+msgid "Futurio Extra"
+msgstr ""
+
+#: lib/metabox/options/options.php:49
+msgid "Layout"
+msgstr ""
+
+#: lib/metabox/options/options.php:58
+msgid "Content layout"
+msgstr ""
+
+#: lib/metabox/options/options.php:62 options/menu-icons.php:21
+#: options/posts-pages.php:21 options/posts-pages.php:34 options/top-bar.php:45
+msgid "Full Width"
+msgstr ""
+
+#: lib/metabox/options/options.php:63
+msgid "Full Width & no gaps - Page Builders"
+msgstr ""
+
+#: lib/metabox/options/options.php:73
+msgid "&larr; To disable title & featured image, hit the &quot;Display&quot; tab"
+msgstr ""
+
+#: lib/metabox/options/options.php:84 options/sidebar.php:8
+msgid "Sidebar"
+msgstr ""
+
+#: lib/metabox/options/options.php:96
+msgid "Content spacing"
+msgstr ""
+
+#: lib/metabox/options/options.php:119
+msgid "Display"
+msgstr ""
+
+#: lib/metabox/options/options.php:128 lib/widgets/about-me.php:276
+#: lib/widgets/social.php:372 options/posts-pages.php:28
+msgid "Title"
+msgstr ""
+
+#: lib/metabox/options/options.php:131 lib/metabox/options/options.php:157
+#: lib/metabox/options/options.php:190 lib/metabox/options/options.php:202
+#: lib/metabox/options/options.php:225 lib/metabox/options/options.php:238
+#: lib/metabox/options/options.php:250 lib/metabox/options/options.php:261
+#: lib/metabox/options/options.php:272
+msgid "Enable"
+msgstr ""
+
+#: lib/metabox/options/options.php:132 lib/metabox/options/options.php:158
+#: lib/metabox/options/options.php:191 lib/metabox/options/options.php:203
+#: lib/metabox/options/options.php:226 lib/metabox/options/options.php:239
+#: lib/metabox/options/options.php:251 lib/metabox/options/options.php:262
+#: lib/metabox/options/options.php:273
+msgid "Disable"
+msgstr ""
+
+#: lib/metabox/options/options.php:141
+msgid "Subtitle"
+msgstr ""
+
+#: lib/metabox/options/options.php:154 options/posts-pages.php:15
+msgid "Featured image"
+msgstr ""
+
+#: lib/metabox/options/options.php:166
+msgid "Featured image/Title height"
+msgstr ""
+
+#: lib/metabox/options/options.php:187
+msgid "Breadcrumbs"
+msgstr ""
+
+#: lib/metabox/options/options.php:199
+msgid "Meta"
+msgstr ""
+
+#: lib/metabox/options/options.php:214
+msgid "Elements"
+msgstr ""
+
+#: lib/metabox/options/options.php:222 options/top-bar.php:33
+msgid "Top Bar"
+msgstr ""
+
+#: lib/metabox/options/options.php:235
+msgid "Header"
+msgstr ""
+
+#: lib/metabox/options/options.php:247
+#: options/colors-typography-main-menu.php:8
+msgid "Main Menu"
+msgstr ""
+
+#: lib/metabox/options/options.php:258
+msgid "Footer Widgets"
+msgstr ""
+
+#: lib/metabox/options/options.php:269
+msgid "Footer Credits"
+msgstr ""
+
+#: lib/notify.php:16
+msgid "You need to have <a href=\"https://wordpress.org/themes/futurio/\" target=\"_blank\">Futurio</a> theme in order to use Futurio Extra plugin."
+msgstr ""
+
+#: lib/notify.php:34
+msgid "<i>Futurio Extra</i> plugin has been deactivated."
+msgstr ""
+
+#: lib/notify.php:63
+#, php-format
+msgid "Awesome, you've been using <a href=\"options-general.php?page=wp-limit-login-attempts\">Futurio theme</a> for more than 2 weeks. May we ask you to give it a 5-star rating on WordPress? | <a href=\"%2$s\" target=\"_blank\">Ok, you deserved it</a> | <a href=\"%1$s\">I already did</a> | <a href=\"%1$s\">No, not good enough</a>"
+msgstr ""
+
+#: lib/widgets/about-me.php:59
+msgid "Futurio: About Me"
+msgstr ""
+
+#: lib/widgets/about-me.php:62
+msgid "Adds a about me widget."
+msgstr ""
+
+#: lib/widgets/about-me.php:266
+msgid "About Me"
+msgstr ""
+
+#: lib/widgets/about-me.php:268
+msgid "John Doe"
+msgstr ""
+
+#: lib/widgets/about-me.php:281
+msgid "Image URL"
+msgstr ""
+
+#: lib/widgets/about-me.php:283
+msgid "Upload Image"
+msgstr ""
+
+#: lib/widgets/about-me.php:287
+msgid "Name:"
+msgstr ""
+
+#: lib/widgets/about-me.php:292
+msgid "Description:"
+msgstr ""
+
+#: lib/widgets/about-me.php:297
+msgid "Social Style:"
+msgstr ""
+
+#: lib/widgets/about-me.php:300 lib/widgets/social.php:434
+#: options/top-bar.php:127
+msgid "Color"
+msgstr ""
+
+#: lib/widgets/about-me.php:301 lib/widgets/social.php:356
+#: lib/widgets/social.php:379
+msgid "Light"
+msgstr ""
+
+#: lib/widgets/about-me.php:302 lib/widgets/social.php:380
+msgid "Dark"
+msgstr ""
+
+#: lib/widgets/about-me.php:307
+msgid "Social Link Target:"
+msgstr ""
+
+#: lib/widgets/about-me.php:310 lib/widgets/social.php:400
+msgid "Blank"
+msgstr ""
+
+#: lib/widgets/about-me.php:311 lib/widgets/social.php:401
+msgid "Self"
+msgstr ""
+
+#: lib/widgets/about-me.php:318 lib/widgets/social.php:456
+msgid "Social Links"
+msgstr ""
+
+#: lib/widgets/popular-posts.php:18
+msgid "Displays your popular posts with thumbnail and date. Recommended use: in sidebar or footer"
+msgstr ""
+
+#: lib/widgets/popular-posts.php:21
+msgid "Futurio: Popular posts"
+msgstr ""
+
+#: lib/widgets/popular-posts.php:97
+msgid "Popular posts"
+msgstr ""
+
+#: lib/widgets/popular-posts.php:102 lib/widgets/recent-posts.php:100
+msgid "Title:"
+msgstr ""
+
+#: lib/widgets/popular-posts.php:108 lib/widgets/recent-posts.php:106
+msgid "Number of posts:"
+msgstr ""
+
+#: lib/widgets/recent-posts.php:18
+msgid "Displays your recent posts with thumbnail and date. Recommended use: in sidebar or footer"
+msgstr ""
+
+#: lib/widgets/recent-posts.php:21
+msgid "Futurio: Recent posts"
+msgstr ""
+
+#: lib/widgets/recent-posts.php:95
+msgid "Recent posts"
+msgstr ""
+
+#: lib/widgets/social.php:110
+msgid "Futurio: Social Icons"
+msgstr ""
+
+#: lib/widgets/social.php:113
+msgid "Display your social media icons."
+msgstr ""
+
+#: lib/widgets/social.php:355
+msgid "Follow Us"
+msgstr ""
+
+#: lib/widgets/social.php:357 lib/widgets/social.php:391
+msgid "Rotate"
+msgstr ""
+
+#: lib/widgets/social.php:377
+msgid "Style:"
+msgstr ""
+
+#: lib/widgets/social.php:381
+msgid "Colored"
+msgstr ""
+
+#: lib/widgets/social.php:382
+msgid "Simple"
+msgstr ""
+
+#: lib/widgets/social.php:387
+msgid "Transition:"
+msgstr ""
+
+#: lib/widgets/social.php:389
+msgid "None"
+msgstr ""
+
+#: lib/widgets/social.php:390
+msgid "Float"
+msgstr ""
+
+#: lib/widgets/social.php:392
+msgid "Zoom Out"
+msgstr ""
+
+#: lib/widgets/social.php:397
+msgid "Link Target"
+msgstr ""
+
+#: lib/widgets/social.php:406
+msgid "Dimensions"
+msgstr ""
+
+#: lib/widgets/social.php:408 lib/widgets/social.php:414
+#: lib/widgets/social.php:420
+msgid "Example:"
+msgstr ""
+
+#: lib/widgets/social.php:412
+msgid "Font Size"
+msgstr ""
+
+#: lib/widgets/social.php:418
+msgid "Border Radius"
+msgstr ""
+
+#: lib/widgets/social.php:424
+msgid "Background Color"
+msgstr ""
+
+#: lib/widgets/social.php:429
+msgid "Background Color Hover"
+msgstr ""
+
+#: lib/widgets/social.php:439
+msgid "Color Hover"
+msgstr ""
+
+#: lib/widgets/social.php:444
+msgid "Border Color"
+msgstr ""
+
+#: lib/widgets/social.php:449
+msgid "Border Color Hover"
+msgstr ""
+
+#: options/colors-typography-footer-credits.php:10
+#: options/colors-typography-footer-widget.php:10
+#: options/colors-typography-presets.php:10
+#: options/colors-typography-top-bar.php:10
+#: options/colors-typography-widget.php:10 options/colors-typography.php:10
+msgid "Colors and Typography"
+msgstr ""
+
+#: options/colors-typography-footer-widget.php:14
+msgid "Footer widgets"
+msgstr ""
+
+#: options/colors-typography-footer-widget.php:26
+#: options/colors-typography-widget.php:56
+msgid "Font"
+msgstr ""
+
+#: options/colors-typography-footer-widget.php:47
+#: options/colors-typography-widget.php:25
+msgid "Widget Titles"
+msgstr ""
+
+#: options/colors-typography-header-title.php:9
+msgid "Header & Title"
+msgstr ""
+
+#: options/colors-typography-header-title.php:21
+msgid "Site title font"
+msgstr ""
+
+#: options/colors-typography-header-title.php:45
+msgid "Site description font"
+msgstr ""
+
+#: options/colors-typography-main-menu.php:19
+msgid "Menu Font"
+msgstr ""
+
+#: options/colors-typography-top-bar.php:14
+msgid "Top bar"
+msgstr ""
+
+#: options/colors-typography-top-bar.php:25
+msgid "Top bar font"
+msgstr ""
+
+#: options/colors-typography-widget.php:14
+msgid "Widget"
+msgstr ""
+
+#: options/colors-typography.php:14
+msgid "Content"
+msgstr ""
+
+#: options/colors-typography.php:27
+msgid "Site font"
+msgstr ""
+
+#: options/colors-typography.php:52 options/woocommerce.php:160
+#: options/woocommerce.php:342
+msgid "Titles"
+msgstr ""
+
+#: options/footer-credits.php:7
+msgid "Copyright"
+msgstr ""
+
+#: options/footer-credits.php:15
+msgid "HTML is allowed.<br/> Use <code>%current_year%</code> to update year automatically.<br/> Use <code>%copy%</code> to include copyright symbol."
+msgstr ""
+
+#: options/global.php:8
+msgid "Global Options"
+msgstr ""
+
+#: options/global.php:15
+msgid "Footer widgets columns"
+msgstr ""
+
+#: options/global.php:39
+msgid "Website preloader"
+msgstr ""
+
+#: options/header.php:10
+msgid "Heading"
+msgstr ""
+
+#: options/header.php:15
+msgid "Separate center"
+msgstr ""
+
+#: options/header.php:16
+msgid "Inside menu"
+msgstr ""
+
+#: options/header.php:23
+msgid "Header spacing"
+msgstr ""
+
+#: options/menu-icons.php:8
+msgid "Main menu"
+msgstr ""
+
+#: options/menu-icons.php:15
+msgid "Main menu layout"
+msgstr ""
+
+#: options/menu-icons.php:20 options/top-bar.php:44
+msgid "Boxed"
+msgstr ""
+
+#: options/menu-icons.php:28
+msgid "Menu float"
+msgstr ""
+
+#: options/menu-icons.php:33 options/sidebar.php:20
+msgid "Left"
+msgstr ""
+
+#: options/menu-icons.php:34
+msgid "Center"
+msgstr ""
+
+#: options/menu-icons.php:35 options/sidebar.php:21
+msgid "Right"
+msgstr ""
+
+#: options/menu-icons.php:43 options/menu-icons.php:60 options/top-bar.php:51
+msgid "Top bar fields"
+msgstr ""
+
+#: options/menu-icons.php:48
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: options/menu-icons.php:49
+msgid "WooCommerce Account"
+msgstr ""
+
+#: options/menu-icons.php:50 options/menu-icons.php:65
+msgid "Search"
+msgstr ""
+
+#: options/menu-icons.php:51 options/menu-icons.php:66
+msgid "Off canvas widget area"
+msgstr ""
+
+#: options/menu-icons.php:52 options/menu-icons.php:67
+msgid "Custom button"
+msgstr ""
+
+#: options/menu-icons.php:77
+msgid "Button text"
+msgstr ""
+
+#: options/menu-icons.php:91
+msgid "Button link"
+msgstr ""
+
+#: options/menu-icons.php:106
+msgid "Button color"
+msgstr ""
+
+#: options/menu-icons.php:111 options/menu-icons.php:153
+msgid "Text"
+msgstr ""
+
+#: options/menu-icons.php:112 options/menu-icons.php:154
+msgid "Background"
+msgstr ""
+
+#: options/menu-icons.php:113 options/menu-icons.php:155
+msgid "Border"
+msgstr ""
+
+#: options/menu-icons.php:148
+msgid "Button color on hover"
+msgstr ""
+
+#: options/posts-pages.php:8
+msgid "Posts and pages"
+msgstr ""
+
+#: options/posts-pages.php:20 options/posts-pages.php:33
+msgid "Inside post"
+msgstr ""
+
+#: options/posts-pages.php:40
+msgid "Image area height"
+msgstr ""
+
+#: options/posts-pages.php:80
+msgid "Overlay"
+msgstr ""
+
+#: options/sidebar.php:15
+msgid "Sidebar position"
+msgstr ""
+
+#: options/sidebar.php:28
+msgid "Sidebar size"
+msgstr ""
+
+#: options/sidebar.php:33
+msgid "3"
+msgstr ""
+
+#: options/sidebar.php:34
+msgid "4"
+msgstr ""
+
+#: options/top-bar.php:39
+msgid "Top bar layout"
+msgstr ""
+
+#: options/top-bar.php:55 options/top-bar.php:64
+msgid "Textarea #1"
+msgstr ""
+
+#: options/top-bar.php:56 options/top-bar.php:86
+msgid "Textarea #2"
+msgstr ""
+
+#: options/top-bar.php:57 options/top-bar.php:109
+msgid "Icons"
+msgstr ""
+
+#: options/top-bar.php:116
+msgid "Select icon"
+msgstr ""
+
+#: options/top-bar.php:122
+msgid "URL"
+msgstr ""
+
+#: options/top-bar.php:133
+msgid "icon"
+msgstr ""
+
+#: options/woocommerce.php:73
+msgid "WooCommerce"
+msgstr ""
+
+#: options/woocommerce.php:77
+msgid "General Settings"
+msgstr ""
+
+#: options/woocommerce.php:82
+msgid "Archive/Shop"
+msgstr ""
+
+#: options/woocommerce.php:87
+msgid "Product Page"
+msgstr ""
+
+#: options/woocommerce.php:92
+msgid "Buttons"
+msgstr ""
+
+#: options/woocommerce.php:104
+msgid "Gallery zoom"
+msgstr ""
+
+#: options/woocommerce.php:112
+msgid "Gallery lightbox"
+msgstr ""
+
+#: options/woocommerce.php:120
+msgid "Gallery slider"
+msgstr ""
+
+#: options/woocommerce.php:128
+msgid "Number of items"
+msgstr ""
+
+#: options/woocommerce.php:129
+msgid "Change number of products displayed per page in archive(shop) page."
+msgstr ""
+
+#: options/woocommerce.php:142
+msgid "Items per row"
+msgstr ""
+
+#: options/woocommerce.php:143
+msgid "Change the number of products columns per row in archive(shop) page."
+msgstr ""
+
+#: options/woocommerce.php:181 options/woocommerce.php:363
+msgid "Price"
+msgstr ""
+
+#: options/woocommerce.php:204
+msgid "Categories"
+msgstr ""
+
+#: options/woocommerce.php:212 options/woocommerce.php:388
+msgid "Button border radius"
+msgstr ""
+
+#: options/woocommerce.php:233
+msgid "Product border radius"
+msgstr ""
+
+#: options/woocommerce.php:254
+msgid "Image border radius"
+msgstr ""
+
+#: options/woocommerce.php:275
+msgid "Product padding"
+msgstr ""
+
+#: options/woocommerce.php:296
+msgid "Product shadow"
+msgstr ""
+
+#: options/woocommerce.php:317
+msgid "Product shadow on hover"
+msgstr ""
